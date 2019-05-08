@@ -85,6 +85,7 @@ my %updateScripts = (
   '106' => "migrate20150702-ZmgDevices.pl",            #8.7.0
   '107' => "migrate20170301-ZimbraChat.pl",            #8.7.6
   '108' => "migrate20180301-ZimbraChat.pl",            #8.8.8
+  '109' => "migrate20190508-ZimbraChat.pl",            #8.8.12
 );
 
 my %updateFuncs = (
